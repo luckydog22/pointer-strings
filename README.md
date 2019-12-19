@@ -1,2 +1,2 @@
 # pointer-strings
-use linklist to find the same letter  in both strings
+Use a linked list to find the same letter and the same number of times in both strings
